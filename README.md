@@ -1,12 +1,21 @@
-# Public Unity Utils from borgsys
+# Public Utils for Unity from borgsys
 
-These custom Unity utils are provided AS IS. 
-No promises on functionality are made, they are only tested on a single specific system and version and not updated for general use. 
-Published as ideas and for further personal customization.
+These custom utils are provided AS IS. 
+No promises on functionality or safety are made, they are only used for a specfic purpose, tested on a single specific system and version and not updated for general use. 
+Shared as ideas for further personal customization.
 
 Some are workarounds/hacks where the API is missing. 
-Some chunks of code are sourced from AI or from tests on custom code uploaded and analyzed by AI and then re-customized. 
+Some chunks of code are sourced from generative AI or from tests on custom code uploaded and analyzed by generative AI and then re-customized. 
 
-Sharing is caring! :) Have fun!
+Free to use, mod and redistribute (GNU GPL 2).
+Have fun!
 
 .christian
+
+## Contents
+
+### TerrainBrushCreator
+Editor | Bulk creation of Unity terrain brushes from folders with tif(f), jpg and png images using a text hack. 
+
+### SnapToTerrain
+Editor | Snaps pivot of selected objects in hierarchy to the terrain.
