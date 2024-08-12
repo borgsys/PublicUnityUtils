@@ -18,4 +18,6 @@ Have fun!
 Editor | Bulk creation of Unity terrain brushes from folders with tif(f), jpg and png images using a text hack. 
 
 ### SnapToTerrain
-Editor | Snaps pivot of selected objects in hierarchy to the terrain.
+Editor | Bulk snaps pivot, with offset, of selected objects in hierarchy to the terrain using terrain sample height. 
+
+Unity built-in shortcut is Ctrl-Shift otherwise when using transform tool.
