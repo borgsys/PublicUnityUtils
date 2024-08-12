@@ -11,3 +11,11 @@ Free to use, mod and redistribute (GNU GPL 2).
 Have fun!
 
 .christian
+
+## Contents
+
+### TerrainBrushCreator
+Editor | Bulk creation of Unity terrain brushes from folders with tif(f), jpg and png images using a text hack. 
+
+### SnapToTerrain
+Editor | Snaps pivot of selected objects in hierarchy to the terrain.
